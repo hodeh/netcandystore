@@ -243,4 +243,9 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
-/.dockerignore
+
+NetCandyStore.csproj
+./Dockerfile
+./packages.config
+.dockerignore
+./Dockerfile.original
